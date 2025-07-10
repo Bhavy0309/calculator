@@ -1,0 +1,15 @@
+.h1{
+    text-decoration: none;
+    color: blue;
+    background: seagreen;
+    justify-content: center;
+    padding: 50px;
+    border-radius: 50px;
+}
+.h1 .a {
+    text-decoration: none;
+    
+}
+.conatainer{
+    justify-content: center;
+}
